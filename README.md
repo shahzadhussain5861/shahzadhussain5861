@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shahzadhussain5861
+- 👋 Hi, I’m Shahzad Hussain
 - 👀 I’m interested in python.
 - 🌱 I’m currently learning python coding.
 - 💞️ I’m looking to collaborate on coding projects
